@@ -1,0 +1,8 @@
+prefix=/home/rafael/tuto_ws/devel
+
+Name: pup_sub
+Description: Description of pup_sub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

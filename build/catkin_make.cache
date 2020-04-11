@@ -1,0 +1,2 @@
+pup_sub
+-DCATKIN_DEVEL_PREFIX=/home/rafael/tuto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rafael/tuto_ws/install -G Unix Makefiles
